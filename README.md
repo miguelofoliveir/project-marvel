@@ -1,17 +1,17 @@
 Aplicação teste que consome a API da Marvel e exibe as series com seus detalhes.
 
 Tecnologias utilizadas:
-React-native
+React-native 2.6.2
 API Marvel
 
 Auxiliares:
-create-react-native
-npm
-yarn
+create-react-native 
+npm 6.0.1
+yarn 1.9.2
 
 Passos para o funcionamento:
 
-1 - Instalar o nodejs https://nodejs.org/en/
+1 - Instalar o nodejs 8.11.3 (recomendado) https://nodejs.org/en/
 
 2 - Executar o comando npm install
 
